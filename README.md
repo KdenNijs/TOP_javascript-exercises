@@ -1,3 +1,7 @@
+## Learnt personally
+- `...args` for arbitrarily many <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters'>rest arguments</a> in function. Already converts to array as well =)
+- `array.forEach(arrow function)` <= don't forget; special kind-of-loop for arrays
+
 # JavaScript Exercises
 
 These JavaScript exercises are intended to complement the JavaScript content on The Odin Project (TOP). They should only be done when instructed during the course of the curriculum.
